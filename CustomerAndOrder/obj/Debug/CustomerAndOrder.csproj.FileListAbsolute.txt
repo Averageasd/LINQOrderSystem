@@ -1,0 +1,7 @@
+C:\Users\nhuyn\source\repos\CustomerAndOrder\CustomerAndOrder\bin\Debug\CustomerAndOrder.exe.config
+C:\Users\nhuyn\source\repos\CustomerAndOrder\CustomerAndOrder\bin\Debug\CustomerAndOrder.exe
+C:\Users\nhuyn\source\repos\CustomerAndOrder\CustomerAndOrder\bin\Debug\CustomerAndOrder.pdb
+C:\Users\nhuyn\source\repos\CustomerAndOrder\CustomerAndOrder\obj\Debug\CustomerAndOrder.csproj.AssemblyReference.cache
+C:\Users\nhuyn\source\repos\CustomerAndOrder\CustomerAndOrder\obj\Debug\CustomerAndOrder.csproj.CoreCompileInputs.cache
+C:\Users\nhuyn\source\repos\CustomerAndOrder\CustomerAndOrder\obj\Debug\CustomerAndOrder.exe
+C:\Users\nhuyn\source\repos\CustomerAndOrder\CustomerAndOrder\obj\Debug\CustomerAndOrder.pdb
